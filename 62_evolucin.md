@@ -17,6 +17,10 @@ Fuera de España, organismos internacionales como el ISAAC Internacional o ISAAC
 
 El reconocimiento de profesionales y organismos de los SAAC se ve refrendado, en último término, por el apoyo, difusión y uso que, de ARASAAC, hacen miles de profesionales y familias dentro y fuera de España.
 
+El 17 de abril de 2019 se publica un Decreto en el que ser  crea el Centro aragonés para la Comunicación Aumentativa y Alternativa. 
+Se puede acceder al Decreto en el siguiente enlace de la página de Educaragón
+([http://www.educaragon.org/noticias/noticias.asp?idNoticia=14413)]
+
 ## Para Saber Más
 
 Si deseáis conocer un poco más en profundidad el proyecto de subtitulación de noticias de AragónRadio 2 podéis visitar la información proporcionada en la Sección"Ejemplos de Uso" de ARASAAC ([http://arasaac.org/ejemplos_uso.php?id_eu=5](http://arasaac.org/ejemplos_uso.php?id_eu=5)) y la web de AragónRadio 2 dónde se publican las noticias ([http://www.aragonradio2.com/catedu](http://www.aragonradio2.com/catedu)).
