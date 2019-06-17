@@ -23,10 +23,8 @@ AraBoard ha sido desarrollada por Marta García Azpiroz (Proyecto Fin de Carrera
 
 ## Tarea
 
-Para aprender el funcionamiento básico de AraBoardleeremos el siguiente [MANUAL](http://arasaac.org/zona_descargas/software/8/Manual_AraBoard.pdf)
+Para aprender el funcionamiento básico de AraBoard accede a la [esta página](http://aulaabierta.arasaac.org/araboard-para-pc-y-para-s-o-android-0-inicio).
 
-[http://arasaac.org/zona_descargas/software/8/Manual_AraBoard.pdf](http://arasaac.org/zona_descargas/software/8/Manual_AraBoard.pdf)
-
-Enlace alternativo (en caso de no funcionar el anterior)
+Puedes descargar el software del siguiente enlace:
 
 [http://aularagon.catedu.es/materialesaularagon2013/arasaac/Docs/Manual_AraBoard.pdf](http://aularagon.catedu.es/materialesaularagon2013/arasaac/Docs/Manual_AraBoard.pdf)
