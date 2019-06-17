@@ -20,9 +20,13 @@ Al igual que el resto de Herramientas Online de ARASAAC se encuentra en:[http://
 
 ## Importante
 
+Si quieres generar cartones con diferentes pictogramas, deberás subir más pictogramas que casillas tengan los cartones.
+
 Para aprender el funcionamiento de esta herramienta se puede consultar el manual en:
 
 [http://arasaac.org/zona_descargas/documentacion/manual_creador_bingos_es.pdf](http://arasaac.org/zona_descargas/documentacion/manual_creador_bingos_es.pdf)
+
+Para ejemplos de bingos, [visita aulaabierta](https://aulaabierta.arasaac.org/bingos).
 
 
 
