@@ -18,9 +18,6 @@ Finalmente, son **inmediatos**, puesto que la comunicación se establece entre e
 
 Desde el punto de vista del **diseño gráfico y la accesibilidad**, ARASAAC es un Sistema de símbolos pictográficos para la comunicación aumentativa que se caracteriza por la comprensión, la coherencia, la flexibilidad, la síntesis y la agrupación.
 
-
-![1.15 Características de un sistema pictográfico desde el diseño gráfico Autores: José Manuel Marcos y David Romero Licencia: CC BY-NC-SA](img/dise%25C3%25B1o_grafico.JPG)
-
 La **comprensión** viene dada por la **legibilidad**. Cada pictograma se explica por sí mismo y no es estrictamente necesario que vaya acompañado de textos, ni que deba ser interpretado para su comprensión.
 
 Existe una **coherencia** en el diseño de los pictogramas, que mantiene la **unidad formal** en todos los elementos que componen el sistema pictográfico. Para ello, se establecen unas reglas comunes, que resultan imprescindibles para las personas que utilizan este sistema. Por ejemplo la línea gráfica de las personas, el grosor de las líneas, la paleta de colores, las proporciones alteradas de los cuerpos,...

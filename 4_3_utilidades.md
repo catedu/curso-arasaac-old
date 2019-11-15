@@ -9,7 +9,7 @@ Aunque la comunicación es un aspecto esencial en el desarrollo de todo ser huma
 
 En esta presentación que podéis ver a continuación se detallan una serie de ejemplos de uso representativos de los pictogramas de ARASAAC en diferentes ámbitos, muchos de ellos, innovadores.
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/26947303" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="476" height="400"></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/kYvQgzMskrTiiV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/arasaac/ejemplos-de-uso-de-los-pictogramas-de-arasaac" title="Ejemplos de uso de los pictogramas de ARASAAC" target="_blank">Ejemplos de uso de los pictogramas de ARASAAC</a> </strong> from <strong><a href="https://www.slideshare.net/arasaac" target="_blank">David Romero Corral</a></strong> </div>
 
 ## Importante
 

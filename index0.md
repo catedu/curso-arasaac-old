@@ -34,12 +34,6 @@ No debemos olvidarnos de que *"la comunicación es un derecho para todas las per
 
 Autor: [CEAPAT](http://www.ceapat.es/ceapat_01/centro_documental/tecnologiasinformacion/sistemas_comunicacion_aumentativa/IM_035263)
 
-Y para finalizar os querríamos dejar un vídeo en el que puede verse un ejemplo de como los Sistemas Aumentativos y Alternativos de Comunicación facilitan la comunicación a personas con alguna dificultad en este área permitiendo su inclusión plena en la sociedad.
-
-{% youtube %}https://www.youtube.com/watch?v=q9W9b62rLTg&feature=youtu.be{% endyoutube %}
-
-Video realizado por la Asociación Probosco (miembro de FEAPS Canarias), que ilustran una buena práctica titulada:"Buscando la accesibilidad total en la comunicación. Un compromiso de todos"
-
 ## Para Saber Más
 
 Para más información sobre la convención:
