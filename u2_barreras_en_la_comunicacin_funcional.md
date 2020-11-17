@@ -3,10 +3,6 @@
 
 Antes de hablar de las barreras de la comunicación, vamos a contextualizarlas en situaciones concretas que deben ser superadas por cualquier persona para lograr la plena inclusión en la sociedad.
 
-{% youtube %}https//www.youtube.com/watch?v=SlL82tlb--M{% endyoutube %}
-
-*Video: "Rompiendo Barreras" - Autores: Cristina López Dumall, Elena Marcos Lázaro, Margarita Montañés Hijazo, Marta Monzón Córdova, Santiago Peribáñez Faguas, Laura Sabater Zamora y Gema Urbina Moreno.*
-
 La comunicación, aun siendo algo intrínseco a la condición humana y una habilidad que desarrollamos gracias al contacto social desde el nacimiento, no siempre se desarrolla de manera adecuada.
 
 
